@@ -16,7 +16,7 @@ afterEvaluate {
                 from(components["java"])
                 groupId = "com.github.02gaurav"
                 artifactId = "date-extensions"
-                version = "1.0"
+                version = "1.0.1"
             }
         }
     }
